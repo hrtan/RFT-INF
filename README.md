@@ -9,7 +9,7 @@ The estimator quantifies how much each training example contributes to the final
 For each sample $z$, the RFT-Inf score (Eq. 5 of the paper) is
 
 $$
-\hat{D}(z) \;=\; \sum_{t}\frac{2\,\eta_t}{N}\;\bigl\langle G_z^{(t)}, \; G_Z^{(t)}\bigr\rangle,
+\hat{D}(z) = \sum_{t}\frac{2\ \eta_t}{N}\;\bigl\langle G_z^{(t)}, \; G_Z^{(t)}\bigr\rangle,
 $$
 
 where
