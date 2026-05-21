@@ -1,0 +1,55 @@
+# Paper / large reference assets
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# RFT-Inf training & cache outputs
+runs/
+checkpoints/
+wandb/
+outputs/
+logs/
+*.pt
+*.safetensors
+*.bin
+*.ckpt
+
+# Local data caches
+data/
+.cache/
+huggingface_cache/
+
+# Notebooks
+*.ipynb_checkpoints/
