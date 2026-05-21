@@ -1,5 +1,3 @@
-# RFT-Inf — Data Influence Estimator for Reinforcement Fine-Tuning
-
 A lightweight, well-packaged implementation of the data-influence estimator proposed in
 
 > Tan et al., **Understanding Data Influence in Reinforcement Finetuning**, NeurIPS 2025.
